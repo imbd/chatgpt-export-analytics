@@ -2,6 +2,9 @@
 
 A comprehensive analysis tool for ChatGPT conversation export data with multi-level visualizations and deep insights.
 
+<img width="823" height="326" alt="image" src="https://github.com/user-attachments/assets/4631b584-6547-438c-9b0f-bc1fe94fd497" />
+
+
 ## 📊 Overview
 
 This project provides a complete analytics pipeline for ChatGPT conversation exports, generating everything from basic statistics to advanced pattern analysis and personality insights.
